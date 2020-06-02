@@ -54,11 +54,3 @@ Keys correspond to model names in the source dataset. You can list all of them w
 
 	./autoencoder.py list-keys
 
-
-## References 
-
-<b>Exploring Generative 3D shapes using Autoencoder Networks</b> [[Link]](https://github.com/xuyanwen2012/interactive_generative_3d_shapes)
-
-
-<b>Exploring Generative 3D Shapes Using Autoencoder Networks (Autodesk 2017)</b> [[Paper]](https://www.autodeskresearch.com/publications/exploring_generative_3d_shapes)
-<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Exploring%20Generative%203D%20Shapes%20Using%20Autoencoder%20Networks.jpeg" /></p>
